@@ -1,4 +1,6 @@
 // LinkedList Example : Console Application
+//Git_GUI
+//155780
 #include "stdafx.h"
 #include "MyList.h" 
 #include <iostream>

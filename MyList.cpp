@@ -1,7 +1,8 @@
 #include "StdAfx.h"
 #include <iostream>
 #include "MyList.h"
-
+//155780_clone
+//mylist
 using namespace std;
 
 void Init (List& L)

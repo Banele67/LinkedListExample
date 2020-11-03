@@ -1,5 +1,6 @@
 #pragma once
-
+//Banele Dube
+//Clone
 typedef  char* DataType;
 
 struct node 
